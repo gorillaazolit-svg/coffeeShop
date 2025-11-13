@@ -26,7 +26,7 @@ body{
 
 /* Шапка сайта */
 header{
-    background: url("img/headerbg.jpeg");
+    background: url("./img/headerbg.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -117,7 +117,7 @@ header{
 /* Секция ourBest */
 
 .ourBest{
-    background: url("img/ourbest.jpg");
+    background: url("./img/ourbest.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -173,6 +173,7 @@ header{
 .nav a:nth-child(2){
     margin-left: 0;
 }
+
 
 
 
